@@ -2,7 +2,7 @@
 
 ## 📌 Deskripsi
 Project ini merupakan hasil pengerjaan tugas Laravel Eloquent yang diberikan oleh guru Web Developer.  
-Fitur yang dibuat mencakup relasi antar model, query join, serta penambahan fitur tambahan seperti search/sorting/pagination/filtering.
+Fitur yang dibuat mencakup relasi antar model, query join, serta penambahan fitur tambahan search.
 
 ---
 
